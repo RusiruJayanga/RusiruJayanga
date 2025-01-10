@@ -8,8 +8,9 @@ Reach me : **rusirujayanga@gmail.com**
 
 <h3 align="left">SOCIAL :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rusiru jayanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rusiru jayanga" height="30" width="40" /></a>
-  <a href="https://x.com/rusirujayanga" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="rusiru jayanga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rusiru jayanga" target="blank"><img align="center" src="social-icons/linkedin.png" alt="rusiru jayanga" height="30" width="30" /></a>
+  <a href="https://x.com/rusirujayanga" target="blank"><img align="center" src="social-icons/twitter.png" alt="rusiru jayanga" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/rusiru.jayanga" target="blank"><img align="center" src="social-icons/facebook.png" alt="rusiru jayanga" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">LANGUAGES AND TOOLS :</h3>
