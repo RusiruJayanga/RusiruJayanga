@@ -11,7 +11,7 @@ Reach me : **rusirujayanga@gmail.com**
 <a href="https://linkedin.com/in/rusiru jayanga" target="blank"><img align="center" src="social-icons/linkedin.png" alt="rusiru jayanga" height="30" width="30" /></a>
   <a href="https://x.com/rusirujayanga" target="blank"><img align="center" src="social-icons/twitter.png" alt="rusiru jayanga" height="30" width="30" /></a>
   
-</p>
+</p><a href="https://www.facebook.com/rusiru.jayanga" target="blank"><img align="center" src="social-icons/facebook.png" alt="rusiru jayanga" height="30" width="30" /></a>
 
 <h3 align="left">LANGUAGES AND TOOLS :</h3>
 <p align="left"> 
