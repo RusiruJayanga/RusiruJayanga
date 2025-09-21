@@ -21,7 +21,7 @@
 
 <h6 align="left"> Connect With Me</h6>
 <p align="left">
-  <a href="mailto:rusirujayanga@gmail.com"><img src="social-icons/Google.png" alt="Gmail" height="33" width="33"/></a>
+  <a href="mailto:rusirujayanga@gmail.com"><img src="social-icons/Google.png" alt="Gmail" height="30" width="30"/></a>
   <a href="https://linkedin.com/in/rusiru jayanga" target="_blank"><img src="social-icons/linkedin.png" alt="LinkedIn" height="30" width="30"/></a>
   <a href="https://x.com/rusirujayanga" target="_blank"><img src="social-icons/twitter.png" alt="Twitter" height="30" width="30"/></a>
   <a href="https://www.facebook.com/rusiru.jayanga" target="_blank"><img src="social-icons/facebook.png" alt="Facebook" height="30" width="30"/></a>
