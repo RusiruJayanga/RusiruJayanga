@@ -1,4 +1,4 @@
-<img src="Readme_img/bg.jpg" alt="bg" width="100%"/>
+<img src="Readme_img/bg.jpg" alt="bg" wdth="100%"/>
 
 <h6 align="left">Languages And Tools</h6> 
 <p align="left">
