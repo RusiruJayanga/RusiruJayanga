@@ -1,6 +1,5 @@
 <img src="Readme_img/bg.jpg" alt="bg" wdith="100%"/>
 
-
 <h6 align="left">Languages And Tools</h6> 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="language-icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/></a>
